@@ -1,1 +1,4 @@
-# PlantApp for detection disease from plants
+# PlantApp 
+
+
+Detection disease from plants
